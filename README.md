@@ -1,1 +1,3 @@
-# Flutter-App
+# simple_app
+
+A new Flutter project.
